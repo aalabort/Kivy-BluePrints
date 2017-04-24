@@ -1,0 +1,3 @@
+title = recording
+author = A
+orientation = portrait
